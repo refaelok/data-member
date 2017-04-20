@@ -1,0 +1,26 @@
+{
+  "name": "data-member",
+  "version": "1.0.0",
+  "description": "Easy way to track on complex object changes Edit",
+  "main": "Add topics",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refaelok/data-member.git"
+  },
+  "keywords": [
+    "immutable",
+    "data-member"
+  ],
+  "author": "refael oknin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/refaelok/data-member/issues"
+  },
+  "homepage": "https://github.com/refaelok/data-member#readme",
+  "dependencies": {
+    "immutable": "^3.8.1"
+  }
+}
